@@ -1,200 +1,375 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Myles Allred",
+    "label": "Neuroscience & Mathematical Computer Science Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mylesrallred@gmail.com",
+    "phone": "",
+    "url": "https://github.com/mrallred",
+    "summary": "Undergraduate researcher investigating neurobiology of comorbid psychiatric disorders, with expertise in behavioral neuroscience, computational modeling, and network analysis",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Chicago",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "mrallred",
+        "url": "https://github.com/mrallred"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "UIC Math, Stats, Comp. Sci. Dept. - Young Scholars Program",
+      "position": "Undergraduate Teaching Instructor",
+      "url": "",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-01",
+      "summary": "Coordinated by Dr. Brooke Shipley, Dr. Vishesh Jain, Nick Christo, Lexie Wheeler. Undergraduate teaching instructor at math program for Chicago high school students.",
+      "highlights": [
+        "Worked with graduate students to introduce wide range of topics in college math",
+        "Helped with lectures and mentored students in small groups"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "UIC Biological Sciences Department - BIOS 102",
+      "position": "Peer Mentor/Teaching Assistant",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "summary": "Peer mentor/teaching assistant for incoming biology students.",
+      "highlights": []
+    },
+    {
+      "name": "Civil Design Inc.",
+      "position": "Land Survey Intern",
+      "url": "",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-01",
+      "summary": "Conducted land, construction, and legal surveys.",
+      "highlights": [
+        "Created, analyzed, and presented on datasets to increase team efficiency in survey and engineering projects"
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Illinois - Chicago",
+      "location": "Chicago, Illinois",
+      "url": "https://www.uic.edu/",
+      "area": "Neuroscience; Mathematical Computer Science",
+      "studyType": "BS (Double Major)",
+      "startDate": "2022-08-01",
+      "endDate": "2026-05-01",
+      "score": "4.0",
+      "courses": ["Dean's list all semesters"]
+    },
+    {
+      "institution": "Eureka Highschool",
+      "location": "Eureka, Missouri",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2022-06-01",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Conference Travel Grant",
+      "date": "2025-05-01",
+      "awarder": "UIC Honor College",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Student Merit and Junior Investigator Meeting Grant",
+      "date": "2025-05-01",
+      "awarder": "Research Society on Alcohol",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Featherstone Scholarship",
+      "date": "2025-04-01",
+      "awarder": "UIC Laboratory of Integrative Neuroscience",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Founders Award in Systems & Behavioral Neuroscience",
+      "date": "2025-04-01",
+      "awarder": "UIC Laboratory of Integrative Neuroscience",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Student Showcase Award",
+      "date": "2024-04-01",
+      "awarder": "UIC French Dept.",
+      "url": "",
+      "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Numpy",
+        "Pandas",
+        "PyTorch",
+        "Matplotlib",
+        "SageMath",
+        "Java"
+      ]
+    },
+    {
+      "name": "Animal Husbandry (Mice)",
+      "level": "Advanced",
+      "icon": "fa-solid fa-flask",
+      "keywords": [
+        "IP Injections",
+        "Fear conditioning",
+        "Plethysmography",
+        "CO2 exposure model",
+        "Colony management",
+        "Blood draws",
+        "Transcardial perfusion"
+      ]
+    },
+    {
+      "name": "Wet Lab",
+      "level": "Advanced",
+      "icon": "fa-solid fa-microscope",
+      "keywords": [
+        "Immunohistochemistry",
+        "Brightfield imaging",
+        "Fluorescent imaging",
+        "qPCR",
+        "iDISCO"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "French",
+      "fluency": "Intermediate (B1)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Neuroscience",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Behavioral Neuroscience",
+        "Psychiatric Disorders",
+        "Alcohol Use Disorder",
+        "Panic Disorder",
+        "Neural Networks",
+        "Epigenetics"
+      ]
+    },
+    {
+      "name": "Computational Methods",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+        "Statistical Mechanics",
+        "Ising Models",
+        "Graph Neural Networks",
+        "Network Analysis",
+        "Monte Carlo Simulations"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Comorbid AUD/Panic Disorder Model",
+      "summary": "Investigating neurobiology underlying comorbid psychiatric disorders at behavioral, molecular, and circuit level. Characterized a novel rodent model using homeostatic-stressor CO2-inhalation as panicogenic challenge.",
+      "highlights": [
+        "Found that withdrawal from chronic ethanol increased sensitivity to CO2-inhalation in C57Bl/6J but not DBA/2J",
+        "Developed custom FIJI script enabling user-friendly, Ilastik powered quantification for cFos positive cells",
+        "Manuscript in preparation",
+        "Presented at UIC Dept. of Psychiatry, SfN 2024, RSA 2025"
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "present",
+      "url": "https://github.com/mrallred"
+    },
+    {
+      "name": "TDAG8 in Alcohol Use Disorder",
+      "summary": "Investigating role of microglial acid sensor TDAG8 in regulating AUD-associated outcomes and drinking behaviors.",
+      "highlights": [
+        "Studied voluntary consumption in DID model, EtOH metabolism, ataxia, locomotor stimulation, and respiratory changes",
+        "Found TDAG8 inhibitor decreased EtOH consumption and microglial activation",
+        "Presented at UIC Undergraduate Research Forum"
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "present",
+      "url": ""
+    },
+    {
+      "name": "Brain-wide Functional Network Analysis",
+      "summary": "Investigating brain-wide functional network disruptions in model of comorbid AUD/PD using tissue-clearing techniques to quantify cFos expression.",
+      "highlights": [
+        "Developing network analysis to identify hub regions modulating differential sensitivity to CO2",
+        "Honors thesis project",
+        "Will result in publication"
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "present",
+      "url": ""
+    },
+    {
+      "name": "Statistical Mechanics and Neural Systems",
+      "summary": "Reading project exploring Ising models, message passing, Metropolis Monte Carlo simulations, replica method, replica symmetry breaking, and dimensionality reduction.",
+      "highlights": [
+        "Developed toolkit in Python enabling simulation and analysis of Ising systems",
+        "Presented talk: 'From Monte Carlo Simulations to Analytic Solutions of Ising Models'"
+      ],
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "url": "https://github.com/mrallred"
+    },
+    {
+      "name": "Graph Representation Learning",
+      "summary": "Reading project on graph convolutional networks and their relation to image convolution and spectral theory; graph theoretic measures relevant to neural networks.",
+      "highlights": [
+        "Presented talk: 'Graph Convolutional Networks (as an extension of convolution over grids)'"
+      ],
+      "startDate": "2025-01-01",
+      "endDate": "2025-05-01",
+      "url": ""
+    }
+  ],
+  "research": [
+    {
+      "institution": "University of Illinois Chicago - Center for Alcohol Research in Epigenetics",
+      "position": "Undergraduate Researcher",
+      "supervisor": "Dr. Katherine McMurray",
+      "startDate": "2024-02-01",
+      "endDate": "present",
+      "summary": "Investigating neurobiology underlying comorbid psychiatric disorders at behavioral, molecular, and circuit level."
+    },
+    {
+      "institution": "University of Illinois Chicago - Dept. of Math, Stats, Comp. Sci.",
+      "position": "Reading Project Participant",
+      "supervisor": "Jennifer Vaccaro",
+      "startDate": "2025-01-01",
+      "endDate": "2025-08-01",
+      "summary": "Completed two reading projects on statistical mechanics/neural systems and graph representation learning."
+    }
+  ],
+  "membership": [
+    {
+      "organization": "Nu Rho Psi",
+      "position": "Member",
+      "startDate": "2025-04-01",
+      "endDate": "present",
+      "summary": "University of Illinois Chicago Chapter"
+    },
+    {
+      "organization": "Phi Beta Kappa",
+      "position": "Member",
+      "startDate": "2025-04-01",
+      "endDate": "present",
+      "summary": "University of Illinois Chicago Chapter"
+    },
+    {
+      "organization": "Research Society on Alcohol",
+      "position": "Member",
+      "startDate": "2025-01-01",
+      "endDate": "present",
+      "summary": ""
+    },
+    {
+      "organization": "Society for Neuroscience",
+      "position": "Member",
+      "startDate": "2024-01-01",
+      "endDate": "present",
+      "summary": ""
+    },
+    {
+      "organization": "UIC Quantum Information Science Society",
+      "position": "Club Officer",
+      "startDate": "2024-01-01",
+      "endDate": "present",
+      "summary": "Officer from June 2025-present"
+    },
+    {
+      "organization": "UIC Engineers for a Sustainable World",
+      "position": "Member",
+      "startDate": "2022-10-01",
+      "endDate": "2023-05-01",
+      "summary": ""
+    }
+  ],
+  "presentations": [
+    {
+      "title": "A Novel Mouse Model Relevant to AUD-Panic Disorder Comorbidity: Strain Differences in Sensitivity to CO2 Inhalation During Withdrawal from Chronic Ethanol",
+      "event": "UIC College of Medicine Research Forum",
+      "type": "Poster",
+      "date": "2025-11-01"
+    },
+    {
+      "title": "A Novel Mouse Model Relevant to AUD-Panic Disorder Comorbidity: Strain Differences in Sensitivity to CO2 Inhalation During Withdrawal from Chronic Ethanol",
+      "event": "UIC Dept. of Psychiatry 16th Annual Research Forum",
+      "type": "Poster",
+      "date": "2025-10-01"
+    },
+    {
+      "title": "From Monte Carlo Simulations to Analytic Solutions of Ising Models",
+      "event": "UIC Directed Reading Program",
+      "type": "Talk",
+      "date": "2025-08-01"
+    },
+    {
+      "title": "A Novel Mouse Model Relevant to AUD-Panic Disorder Comorbidity: Strain Differences in Sensitivity to CO2 Inhalation During Withdrawal from Chronic Ethanol",
+      "event": "Research Society on Alcohol Meeting",
+      "type": "Poster",
+      "date": "2025-06-01"
+    },
+    {
+      "title": "Graph Convolutional Networks (as an extension of convolution on grids)",
+      "event": "UIC Directed Reading Program",
+      "type": "Talk",
+      "date": "2025-05-01"
+    },
+    {
+      "title": "Microglial acid sensing regulates AUD associated outcomes and drinking behavior",
+      "event": "UIC Honor College Undergraduate Research Symposium",
+      "type": "Poster",
+      "date": "2024-11-01"
+    },
+    {
+      "title": "Withdrawal from chronic alcohol increases CO2 inhalation sensitivity in mice and rats: a novel model relevant to panic and PTSD comorbidity following AUD",
+      "event": "Society for Neuroscience Meeting",
+      "type": "Poster",
+      "date": "2024-10-01"
+    },
+    {
+      "title": "Developing a novel model relevant to AUD-panic disorder comorbidity: Strain differences in sensitivity to CO2 inhalation during withdrawal from chronic alcohol",
+      "event": "UIC Dept. of Psychiatry 15th Annual Research Forum",
+      "type": "Poster",
+      "date": "2024-09-01"
     }
   ]
 }
