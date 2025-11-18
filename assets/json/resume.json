@@ -51,9 +51,7 @@
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
       "summary": "Conducted land, construction, and legal surveys.",
-      "highlights": [
-        "Created, analyzed, and presented on datasets to increase team efficiency in survey and engineering projects"
-      ]
+      "highlights": ["Created, analyzed, and presented on datasets to increase team efficiency in survey and engineering projects"]
     }
   ],
   "volunteer": [],
@@ -125,15 +123,7 @@
       "name": "Programming",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "Numpy",
-        "Pandas",
-        "PyTorch",
-        "Matplotlib",
-        "SageMath",
-        "Java"
-      ]
+      "keywords": ["Python", "Numpy", "Pandas", "PyTorch", "Matplotlib", "SageMath", "Java"]
     },
     {
       "name": "Animal Husbandry (Mice)",
@@ -153,13 +143,7 @@
       "name": "Wet Lab",
       "level": "Advanced",
       "icon": "fa-solid fa-microscope",
-      "keywords": [
-        "Immunohistochemistry",
-        "Brightfield imaging",
-        "Fluorescent imaging",
-        "qPCR",
-        "iDISCO"
-      ]
+      "keywords": ["Immunohistochemistry", "Brightfield imaging", "Fluorescent imaging", "qPCR", "iDISCO"]
     }
   ],
   "languages": [
@@ -178,25 +162,12 @@
     {
       "name": "Neuroscience",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Behavioral Neuroscience",
-        "Psychiatric Disorders",
-        "Alcohol Use Disorder",
-        "Panic Disorder",
-        "Neural Networks",
-        "Epigenetics"
-      ]
+      "keywords": ["Behavioral Neuroscience", "Psychiatric Disorders", "Alcohol Use Disorder", "Panic Disorder", "Neural Networks", "Epigenetics"]
     },
     {
       "name": "Computational Methods",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Statistical Mechanics",
-        "Ising Models",
-        "Graph Neural Networks",
-        "Network Analysis",
-        "Monte Carlo Simulations"
-      ]
+      "keywords": ["Statistical Mechanics", "Ising Models", "Graph Neural Networks", "Network Analysis", "Monte Carlo Simulations"]
     }
   ],
   "references": [],
@@ -252,9 +223,7 @@
     {
       "name": "Graph Representation Learning",
       "summary": "Reading project on graph convolutional networks and their relation to image convolution and spectral theory; graph theoretic measures relevant to neural networks.",
-      "highlights": [
-        "Presented talk: 'Graph Convolutional Networks (as an extension of convolution over grids)'"
-      ],
+      "highlights": ["Presented talk: 'Graph Convolutional Networks (as an extension of convolution over grids)'"],
       "startDate": "2025-01-01",
       "endDate": "2025-05-01",
       "url": ""

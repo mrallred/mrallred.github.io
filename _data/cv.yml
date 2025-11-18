@@ -27,7 +27,7 @@ work:
     highlights:
       - Worked with graduate students to introduce wide range of topics in college math
       - Helped with lectures and mentored students in small groups
-  
+
   - name: UIC Biological Sciences Department - BIOS 102
     position: Peer Mentor/Teaching Assistant
     url: ""
@@ -35,7 +35,7 @@ work:
     endDate: "2024-05-01"
     summary: Peer mentor/teaching assistant for incoming biology students.
     highlights: []
-  
+
   - name: Civil Design Inc.
     position: Land Survey Intern
     url: ""
@@ -58,7 +58,7 @@ education:
     score: "4.0"
     courses:
       - Dean's list all semesters
-  
+
   - institution: Eureka Highschool
     location: Eureka, Missouri
     url: ""
@@ -75,25 +75,25 @@ awards:
     awarder: UIC Honor College
     url: ""
     summary: ""
-  
+
   - title: Student Merit and Junior Investigator Meeting Grant
     date: "2025-05-01"
     awarder: Research Society on Alcohol
     url: ""
     summary: ""
-  
+
   - title: Featherstone Scholarship
     date: "2025-04-01"
     awarder: UIC Laboratory of Integrative Neuroscience
     url: ""
     summary: ""
-  
+
   - title: Founders Award in Systems & Behavioral Neuroscience
     date: "2025-04-01"
     awarder: UIC Laboratory of Integrative Neuroscience
     url: ""
     summary: ""
-  
+
   - title: Student Showcase Award
     date: "2024-04-01"
     awarder: UIC French Dept.
@@ -116,7 +116,7 @@ skills:
       - Matplotlib
       - SageMath
       - Java
-  
+
   - name: Animal Husbandry (Mice)
     level: Advanced
     icon: fa-solid fa-flask
@@ -128,7 +128,7 @@ skills:
       - Colony management
       - Blood draws
       - Transcardial perfusion
-  
+
   - name: Wet Lab
     level: Advanced
     icon: fa-solid fa-microscope
@@ -143,7 +143,7 @@ languages:
   - language: English
     fluency: Native speaker
     icon: ""
-  
+
   - language: French
     fluency: Intermediate (B1)
     icon: ""
@@ -158,7 +158,7 @@ interests:
       - Panic Disorder
       - Neural Networks
       - Epigenetics
-  
+
   - name: Computational Methods
     icon: fa-solid fa-laptop-code
     keywords:
@@ -181,7 +181,7 @@ projects:
     startDate: "2024-02-01"
     endDate: present
     url: https://github.com/mrallred
-  
+
   - name: TDAG8 in Alcohol Use Disorder
     summary: Investigating role of microglial acid sensor TDAG8 in regulating AUD-associated outcomes and drinking behaviors.
     highlights:
@@ -191,7 +191,7 @@ projects:
     startDate: "2024-02-01"
     endDate: present
     url: ""
-  
+
   - name: Brain-wide Functional Network Analysis
     summary: Investigating brain-wide functional network disruptions in model of comorbid AUD/PD using tissue-clearing techniques to quantify cFos expression.
     highlights:
@@ -201,7 +201,7 @@ projects:
     startDate: "2024-02-01"
     endDate: present
     url: ""
-  
+
   - name: Statistical Mechanics and Neural Systems
     summary: Reading project exploring Ising models, message passing, Metropolis Monte Carlo simulations, replica method, replica symmetry breaking, and dimensionality reduction.
     highlights:
@@ -210,7 +210,7 @@ projects:
     startDate: "2025-05-01"
     endDate: "2025-08-01"
     url: https://github.com/mrallred
-  
+
   - name: Graph Representation Learning
     summary: Reading project on graph convolutional networks and their relation to image convolution and spectral theory; graph theoretic measures relevant to neural networks.
     highlights:
@@ -226,7 +226,7 @@ research:
     startDate: "2024-02-01"
     endDate: present
     summary: Investigating neurobiology underlying comorbid psychiatric disorders at behavioral, molecular, and circuit level.
-  
+
   - institution: University of Illinois Chicago - Dept. of Math, Stats, Comp. Sci.
     position: Reading Project Participant
     supervisor: Jennifer Vaccaro
@@ -240,31 +240,31 @@ membership:
     startDate: "2025-04-01"
     endDate: present
     summary: University of Illinois Chicago Chapter
-  
+
   - organization: Phi Beta Kappa
     position: Member
     startDate: "2025-04-01"
     endDate: present
     summary: University of Illinois Chicago Chapter
-  
+
   - organization: Research Society on Alcohol
     position: Member
     startDate: "2025-01-01"
     endDate: present
     summary: ""
-  
+
   - organization: Society for Neuroscience
     position: Member
     startDate: "2024-01-01"
     endDate: present
     summary: ""
-  
+
   - organization: UIC Quantum Information Science Society
     position: Club Officer
     startDate: "2024-01-01"
     endDate: present
     summary: Officer from June 2025-present
-  
+
   - organization: UIC Engineers for a Sustainable World
     position: Member
     startDate: "2022-10-01"
@@ -276,37 +276,37 @@ presentations:
     event: UIC College of Medicine Research Forum
     type: Poster
     date: "2025-11-01"
-  
+
   - title: "A Novel Mouse Model Relevant to AUD-Panic Disorder Comorbidity: Strain Differences in Sensitivity to CO2 Inhalation During Withdrawal from Chronic Ethanol"
     event: UIC Dept. of Psychiatry 16th Annual Research Forum
     type: Poster
     date: "2025-10-01"
-  
+
   - title: "From Monte Carlo Simulations to Analytic Solutions of Ising Models"
     event: UIC Directed Reading Program
     type: Talk
     date: "2025-08-01"
-  
+
   - title: "A Novel Mouse Model Relevant to AUD-Panic Disorder Comorbidity: Strain Differences in Sensitivity to CO2 Inhalation During Withdrawal from Chronic Ethanol"
     event: Research Society on Alcohol Meeting
     type: Poster
     date: "2025-06-01"
-  
+
   - title: "Graph Convolutional Networks (as an extension of convolution on grids)"
     event: UIC Directed Reading Program
     type: Talk
     date: "2025-05-01"
-  
+
   - title: "Microglial acid sensing regulates AUD associated outcomes and drinking behavior"
     event: UIC Honor College Undergraduate Research Symposium
     type: Poster
     date: "2024-11-01"
-  
+
   - title: "Withdrawal from chronic alcohol increases CO2 inhalation sensitivity in mice and rats: a novel model relevant to panic and PTSD comorbidity following AUD"
     event: Society for Neuroscience Meeting
     type: Poster
     date: "2024-10-01"
-  
+
   - title: "Developing a novel model relevant to AUD-panic disorder comorbidity: Strain differences in sensitivity to CO2 inhalation during withdrawal from chronic alcohol"
     event: UIC Dept. of Psychiatry 15th Annual Research Forum
     type: Poster
