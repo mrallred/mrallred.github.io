@@ -14,3 +14,5 @@ _scripts/*
 _data/citations.yml
 assets/js/distillpub/*.js
 assets/jupyter/*.html
+CUSTOMIZE.md
+INSTALL.md
