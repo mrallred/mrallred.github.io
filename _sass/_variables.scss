@@ -8,14 +8,14 @@
 // Colors
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
-$orange-color: #f29105 !default;
+$orange-color: #de8100 !default;
 $blue-color: #0076df !default;
 $blue-color-dark: #00369f !default;
 $cyan-color: #2698ba !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
 $green-color: #00ab37 !default;
 $green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
+$green-color-dark: #11aa00 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
@@ -50,3 +50,9 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+// Typography
+$font-family-sans-serif: "jost", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+
+$font-family-serif: "Georgia", "Times New Roman", serif !default;
+$font-family-monospace: "Menlo", "Monaco", "Consolas", "Courier New", monospace !default;

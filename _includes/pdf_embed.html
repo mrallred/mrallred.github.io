@@ -1,0 +1,7 @@
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <object data="{{ include.url | relative_url }}" type="application/pdf" width="100%" height="{{ include.height | default: '800px' }}">
+            <p>Unable to display PDF file. <a href="{{ include.url | relative_url }}">Download</a> instead.</p>
+        </object>
+    </div>
+</div>

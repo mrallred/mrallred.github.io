@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Coursework
+title: coursework
 description: The classes I've taken
 nav: true
 nav_order: 6

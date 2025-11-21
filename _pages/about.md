@@ -19,8 +19,8 @@ social: false # includes social icons at the bottom of the page
 
 I'm an undergraduate at the University of Illinois Chicago studying neuroscience and computational mathematics. Currently researching psychiatric disorders with Dr. Katherine McMurray, with a particular focus on comorbidity between alcohol use disorders and panic disorder. I'm interested in the fundamental princples of distributed computation in biological brains.
 
-This site is a work in progress.
+This site is a work in progress, mostly just a place to keep any interesting projects I've worked on.
 
-[Github](https://github.com/mrallred)
+[My Github](https://github.com/mrallred)
 
-[Linkedn](https://www.linkedin.com/in/myles-allred/)
+[My Linkedn](https://www.linkedin.com/in/myles-allred/)
