@@ -25,13 +25,13 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Here&#39;s my CV. You can also open the PDF above.",
+          description: "Here&#39;s a PDF of my latest CV",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-coursework",
-          title: "Coursework",
+          title: "coursework",
           description: "The classes I&#39;ve taken",
           section: "Navigation",
           handler: () => {
@@ -63,7 +63,12 @@ ninja.data = [{
           title: 'Graph Convolutional Networks (as extensions of CNNs)',
           description: "A written summary of a presentation I gave for the UIC MSCS Dept. Directed Reading Program in May 2025",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project%20copy.html";
+              window.location.href = "/projects/GCN.html";
+            },},{id: "projects-from-monte-carlo-simulations-to-analytic-solutions-of-ising-models",
+          title: 'From Monte Carlo Simulations to Analytic Solutions of Ising Models',
+          description: "A written summary of a presentation I gave for the UIC MSCS Dept. Directed Reading Program in August 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/StatMech.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
