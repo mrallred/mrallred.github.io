@@ -11,4 +11,5 @@ related_publications: true
 [View the Jupyter notebook summary at my GitHub](https://github.com/mrallred/GCN-Intuitive-Overview/blob/main/GCN_intuitive_overview.ipynb)
 
 ## Slides from my presentation:
+
 {% include pdf_embed.html url='/assets/pdf/GCN_slides.pdf' %}

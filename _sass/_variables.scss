@@ -52,7 +52,15 @@ $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
 
 // Typography
-$font-family-sans-serif: "jost", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$font-family-sans-serif:
+  "jost",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  Roboto,
+  "Helvetica Neue",
+  Arial,
+  sans-serif !default;
 
 $font-family-serif: "Georgia", "Times New Roman", serif !default;
 $font-family-monospace: "Menlo", "Monaco", "Consolas", "Courier New", monospace !default;
