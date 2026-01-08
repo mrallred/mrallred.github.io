@@ -61,7 +61,7 @@ ninja.data = [{
         },
       },{id: "projects-graph-convolutional-networks-as-extensions-of-cnns",
           title: 'Graph Convolutional Networks (as extensions of CNNs)',
-          description: "A written summary of a presentation I gave for the UIC MSCS Dept. Directed Reading Program in May 2025",
+          description: "A written version of the presentation I gave for the May 2025 UIC MSCS Dept. Directed Reading Program.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/GCN.html";
             },},{id: "projects-from-monte-carlo-simulations-to-analytic-solutions-of-ising-models",
