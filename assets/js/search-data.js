@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-coursework",
+          title: "coursework",
+          description: "The classes I&#39;ve taken",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/coursework/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "Here&#39;s a PDF of my latest CV",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-coursework",
-          title: "coursework",
-          description: "The classes I&#39;ve taken",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -66,7 +66,7 @@ ninja.data = [{
               window.location.href = "/projects/GCN.html";
             },},{id: "projects-from-monte-carlo-simulations-to-analytic-solutions-of-ising-models",
           title: 'From Monte Carlo Simulations to Analytic Solutions of Ising Models',
-          description: "A written summary of a presentation I gave for the UIC MSCS Dept. Directed Reading Program in August 2025",
+          description: "A summary of my work in the UIC MSCS Department Summer 2025 Directed Reading Program.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/StatMech.html";
             },},{
